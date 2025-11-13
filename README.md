@@ -38,7 +38,7 @@ Inverting amplifier:
 ## MODEL GRAPH:
 <img width="368" height="284" alt="image" src="https://github.com/user-attachments/assets/d2081f1e-57d1-4cd0-b59a-5ebb4115733d" />
 
-## TABULATION:
+## TABULATION
 
 
 ## GRAPH:
